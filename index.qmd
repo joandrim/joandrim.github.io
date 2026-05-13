@@ -1,0 +1,43 @@
+---
+title: "Joeda Andrimamy"
+subtitle: "Doctoral Researcher at MAKIS Project"
+image: Joedaprofile.jpg
+about:
+  template: solana
+  image-shape: rounded
+  links:
+    - icon: envelope
+      href: mailto:andri.joed@gmail.com
+      aria-label: envelope
+    - icon: github
+      href: https://github.com/joedaandrimamy
+      aria-label: GitHub
+    - icon: linkedin
+      href: https://www.linkedin.com/feed/
+      aria-label: LinkedIn
+    # - text: "{{< iconify academicons:google-scholar size=Large >}}"
+    #   href: https://scholar.google.com/citations?user=cw0qKdAAAAAJ
+    #   aria-label: Google Scholar
+    # - text: "{{< iconify academicons:orcid size=Large >}}"
+    #   href: https://orcid.org/0000-0002-3946-5222
+    #   aria-label: ORCID
+---
+
+I am a **PhD researcher** at the [MAKIS Project](https://www.projet-makis.org/), member of the [UMI SOURCE](https://www.umi-source.uvsq.fr/) ([University Paris-Saclay](https://www.universite-paris-saclay.fr/en)).
+
+I am a **development and public economist**. My research focuses on the adoption of **agricultural innovation** and the **risk management mechanisms** in Madagascar.
+
+I'm Working on my thesis at the [Economics departement - EGS Faculty - University of Antananarivo](https://www.univ-antananarivo.mg/) since February 2022. under the supervision of [Holimalala Randriamanampisoa](https://www.umi-source.uvsq.fr/holimalala-marcelle-randriamanampisoa) and [Claire Gondard](https://www.umi-source.uvsq.fr/mme-claire-gondard-delcroix).
+
+You can contact me at my [email adress](mailto:andri.joed@gmail.com).
+
+## News
+
+I will be in Androy Madagascar from May to June 2026 to conduct fieldwork about the third chapter of my thesis within the [DYNATSIMO](https://www.umi-source.uvsq.fr/dynatsimo-resilience) project (Understanding and assessing development dynamics in the Greater South of Madagascar).
+
+## Research Labs
+
+-   [Centre d'études et de recherches économiques pour le développement - CERED](https://ue-madagascar.org/o/31997)
+-   [UMI SOURCE (University Paris-Saclay)](https://www.umi-source.uvsq.fr/)
+
+More information in my [CV](files/CV_Joeda_ANDRIMAMY.pdf).
