@@ -4,7 +4,7 @@ subtitle: "Doctoral Researcher at MAKIS Project"
 image: Joedaprofile.jpg
 about:
   template: solana
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: envelope
       href: mailto:andri.joed@gmail.com
